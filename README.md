@@ -11,6 +11,12 @@
 * [Clase 8](https://github.com/Caarito/Materia-IS1/blob/main/Teorias/Clase-8-Metodologias-Agiles.pdf) :open_book:
 * [Clase 9](https://github.com/Caarito/Materia-IS1/blob/main/Teorias/Clase-9-Calidad.pdf) :open_book:
 
+### :books: Explicacion de Practica:
+* [Explicación de practica 2]() :open_book:
+* [Explicación de practica 3]() :open_book:
+* [Explicación de practica 4]() :open_book:
+* [Explicación de practica 5]() :open_book:
+
 
 
 ### :clapper: Videos:
