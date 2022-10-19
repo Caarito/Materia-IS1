@@ -21,3 +21,23 @@
 ### :clapper: Videos:
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3iVPjuXxkmPldedzhCsnr29) :film_strip:
 * [Explicación de Prácticas](https://www.youtube.com/playlist?list=PL3a_0yafSm3h9qVihlLuVVC5XkwGnmNVA) :film_strip:
+
+### :round_pushpin: Material Adicional:
+  * [Libro Análisis y Diseño de Sistemas 8 edicion - Kenneth E.Kendall
+Julie E.Kendall ](https://github.com/Caarito/Materia-IS1/blob/main/Libros/Analisis%20y%20Diseno%20de%20Sistemas%20Kendall-8va.pdf):closed_book:
+  * [Libro Análisis de sistemas Diseño y métodos - Whitten Bentley ](https://github.com/Caarito/Materia-IS1/blob/main/Libros/An%C3%A1lisis%20de%20sistemas%20Dise%C3%B1o%20y%20m%C3%A9todos%20-%20Whitten%20Bentley.pdf):closed_book:
+
+### 💻 Practicas: 
+ 
+ * [Practica 1](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%201%20IS1.pdf) :page_facing_up:
+     - [Ejercicio 1]()     
+     - [Ejercicio 2]() 
+ * [Practica 2](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%202%20IS1.pdf) :page_facing_up:
+     - [Ejercicio 1]()     
+     - [Ejercicio 2]()
+
+ * [Practica 3](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%203%20IS1.pdf) :page_facing_up:
+
+ * [Practica 4](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%204%20IS1.pdf) :page_facing_up:
+
+ * [Practica 5](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%205%20IS1.pdf) :page_facing_up:
