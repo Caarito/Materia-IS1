@@ -20,4 +20,4 @@
 
 ### :clapper: Videos:
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3iVPjuXxkmPldedzhCsnr29) :film_strip:
-* [Explicación de Prácticas]() :film_strip:
+* [Explicación de Prácticas](https://www.youtube.com/playlist?list=PL3a_0yafSm3h9qVihlLuVVC5XkwGnmNVA) :film_strip:
