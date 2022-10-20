@@ -33,8 +33,11 @@ Julie E.Kendall ](https://github.com/Caarito/Materia-IS1/blob/main/Libros/Analis
      - [Ejercicio 1]()     
      - [Ejercicio 2]() 
  * [Practica 2](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%202%20IS1.pdf) :page_facing_up:
-     - [Ejercicio 1](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Ejercicios%20Practica%202/punto1%20practica%202.pdf)     
-     - [Ejercicio 2]()
+     - [Ejercicio 1](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Ejercicios%20Practica%202/punto%201%20practica%202.pdf)     
+     - [Ejercicio 2](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Ejercicios%20Practica%202/punto%202%20practica%202.pdf)
+     - [Ejercicio 3]() 
+     - [Ejercicio 4]() 
+     - [Ejercicio 5]() 
 
  * [Practica 3](https://github.com/Caarito/Materia-IS1/blob/main/Practicas/Practica%203%20IS1.pdf) :page_facing_up:
 
